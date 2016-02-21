@@ -1,2 +1,2 @@
 # coderiders
-FeeFood Android App from CodeRiders
+FeedFood Android App from CodeRiders
